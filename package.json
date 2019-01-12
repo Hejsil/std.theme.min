@@ -1,5 +1,10 @@
 {
     "name": "std-theme-min",
+    "publisher": "hejsil",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hejsil/std.theme.min.git"
+    },
     "displayName": "std.theme.min",
     "description": "A vscode theme using few colors and a minimal design",
     "version": "0.0.1",
