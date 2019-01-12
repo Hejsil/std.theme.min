@@ -1,7 +1,7 @@
 {
     "name": "std-theme-min",
     "displayName": "std.theme.min",
-    "description": "",
+    "description": "A vscode theme using few colors and a minimal design",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.30.0"
